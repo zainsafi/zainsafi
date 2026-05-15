@@ -1,16 +1,21 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:0D1117,50:001F3F,100:00C2FF&text=Zain%20Ul%20Islam&fontSize=50&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Flutter%20Developer%20%7C%20Software%20Engineering%20Learner%20%7C%20Cybersecurity%20Enthusiast&descAlignY=58&descSize=17"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:0D1117,50:001F3F,100:00C2FF&text=Zain%20Ul%20Islam&fontSize=50&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Flutter%20Developer%20%7C%20Cybersecurity%20Enthusiast&descAlignY=58&descSize=17"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=900&lines=Flutter+Developer+focused+on+building+scalable+applications;Building+modern+and+user-centric+mobile+experiences;Learning+software+engineering+and+secure+development;Exploring+cybersecurity+and+ethical+hacking" alt="Typing SVG" />
+<br>
 
+<a href="https://github.com/zainsafi">
+  <img src="https://img.shields.io/badge/GitHub-zainsafi-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<a href="https://www.linkedin.com/in/zain-ul-islam-174650227">
+  <img src="https://img.shields.io/badge/LinkedIn-Zain%20Ul%20Islam-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=zainsafi&label=Profile%20Views&color=00C2FF&style=flat-square" />
+<img src="https://img.shields.io/github/followers/zainsafi?label=Followers&style=flat-square&color=0A66C2" />
 
-<img src="https://img.shields.io/github/followers/zainsafi?label=Followers&style=flat-square&color=00C2FF" />
-
-<img src="https://img.shields.io/github/stars/zainsafi?label=Stars&style=flat-square&color=00C2FF" />
+<img src="https://img.shields.io/github/stars/zainsafi?label=GitHub%20Stars&style=flat-square&color=0A66C2" />
 
 </div>
 
@@ -27,62 +32,56 @@ Alongside development, I am also exploring **cybersecurity** and **ethical hacki
 ```yaml
 name: Zain Ul Islam
 username: zainsafi
-role: Flutter Developer
-location: Pakistan
+role: Flutter App Developer
 
-current_focus:
-  - Flutter Development
-  - Firebase Integration
-  - REST APIs
-  - Secure Application Development
-  - Software Engineering
+goal: Professional Software Engineer
 
-currently_learning:
-  - Cybersecurity Fundamentals
+interests:
+  - Mobile App Development
+  - Cybersecurity
   - Ethical Hacking
-  - Clean Architecture
-  - Problem Solving
 ```
 
 ---
 
-# Tech Stack
+# Technical Skills
 
-<div align="center">
+## Programming Languages
 
-### Languages
+<p align="left">
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+</p>
 
-<img src="https://skillicons.dev/icons?i=cpp,dart,java,python,html,css&theme=dark" />
+## App Development & Backend
 
-<br><br>
+<p align="left">
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/REST%20APIs-111827?style=for-the-badge&logo=fastapi&logoColor=white" />
+</p>
 
-### Frameworks & Tools
+## Tools & Platforms
 
-<img src="https://skillicons.dev/icons?i=flutter,firebase,git,github,vscode&theme=dark" />
-
-<br><br>
-
-### Platforms & Learning
-
-<img src="https://img.shields.io/badge/freeCodeCamp-0A0A23?style=for-the-badge&logo=freecodecamp&logoColor=white" />
-
-<img src="https://img.shields.io/badge/REST%20APIs-0D1117?style=for-the-badge&logo=fastapi&logoColor=00C2FF" />
-
-</div>
-
----
-
-# GitHub Analytics
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=zainsafi&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12&count_private=true&cache_seconds=1800" />
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zainsafi&layout=compact&theme=tokyonight&hide_border=true&border_radius=12&cache_seconds=1800" />
-
-</div>
+<p align="left">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+  <img src="https://img.shields.io/badge/freeCodeCamp-0A0A23?style=for-the-badge&logo=freecodecamp&logoColor=white" />
+</p>
 
 ---
+
+
+
+<!-- add github analytics here -->
+
+
+
 
 # Contribution Streak
 
@@ -104,79 +103,43 @@ currently_learning:
 
 ---
 
-# Current Focus
+## Connect Wtih Me
 
-```text
-Flutter App Development
-Firebase Authentication & Database
-REST API Integration
-Software Engineering Principles
-Problem Solving
-Cybersecurity Fundamentals
-Ethical Hacking Concepts
-```
+<p>
+  <strong>Email:</strong>
+  <a href="mailto:zainulislamk456@gmail.com">zainulislamk456@gmail.com</a>
+</p>
 
----
+<p>
+  <strong>LinkedIn:</strong>
+  <a href="https://www.linkedin.com/in/zain-ul-islam-174650227">Zain Ul Islam</a>
+</p>
 
-# Development Philosophy
+<p>
+  <strong>GitHub:</strong>
+  <a href="https://github.com/zainsafi">github.com/zainsafi</a>
+</p>
 
-```text
-Write clean code.
-Build practical projects.
-Focus on scalability.
-Keep learning consistently.
-Think like an engineer.
-```
-
----
-
-# Connect
-
-<div align="center">
-
-<a href="https://github.com/zainsafi">
-<img src="https://img.shields.io/badge/GitHub-zainsafi-0D1117?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-<a href="https://www.linkedin.com/in/zain-ul-islam-174650227">
-<img src="https://img.shields.io/badge/LinkedIn-Zain%20Ul%20Islam-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
-<a href="mailto:zainulislamk456@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-
-</div>
 
 ---
 
 # Fun Fact
 
 ```cpp
-while(!success)
+while (!success)
 {
     tryAgain();
 }
 ```
 
-<div align="center">
-
-Thanks for visiting my profile!
-
-</div>
-
 ---
 
 <div align="center">
 
-> “First, solve the problem. Then, write the code.”
+### “First, solve the problem. Then, write the code.”
+— John Johnson
 
-</div>
 
----
-
-<div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:00C2FF,50:001F3F,100:0D1117"/>
+Thanks for visiting my profile ❣️
 
 </div>
