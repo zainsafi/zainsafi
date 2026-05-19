@@ -85,10 +85,9 @@ interests:
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=zainsafi&theme=tokyonight&hide_border=true&border_radius=12" />
+<img src="https://github-readme-streak-stats-eight.vercel.app?user=zainsafi&theme=tokyonight&hide_border=true&border_radius=12" />
 
 </div>
-
 ---
 
 # Activity Graph
